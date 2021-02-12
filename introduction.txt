@@ -1,0 +1,29 @@
+Smart Kampung adalah aplikasi berbasis web dan insya allah ada versi android nya jg, aplikasi ini bertujuan untuk mempermudah mendata
+warga yang ada disuatu kampung, meliputi data keluarga , data diri dari data keluarga , alamat rumah , pertanyaan dari
+masyarakat, request untuk mengurus keperluan dengan RT setempat dan ada berita seputar info yang perlu di sosialisasikan
+kepada warga sekitar, jadi aplikasi ini mendukung jg program pemerintah dimana dimasa pandemi covid-19 ini kegiatan sosial
+secara live agak dibatasi dan dianjurkan menggunakan internet atau media sosial seperti aplikasi ini
+
+database :
+
+pengguna :>
+username
+password
+no ktp
+nama lengkap
+tempat lahir
+tanggal lahir
+agama
+pekerjaan
+status pengguna ( admin, user, RT )
+
+
+class
+mx-auto = untuk menggeser content ke tengah area
+mt ( margin-top ) = untuk menggeser content ke bawah area
+mb ( margin bottom ) = untuk menggeser content ke atas area
+text-blue-100 = merubah warna text menjadi biru dengan ketebalan warna 100px
+bg-blue-100 = merubah warna background menjadi biru dengan ketebalan warna 100px
+font-bold/italic = merubah gaya tulisan
+py ( padding Y ) = memberi space dari sisi atas dan bawah content
+px ( Padding X ) = Memberi space dari sisi kiri dan kanan content

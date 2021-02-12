@@ -1,0 +1,7 @@
+1. buka github kalian
+2. buat repositori
+3. buka cmd ketikan sintax "git clone https://github.com/Rizqidoet/1-kampung-smart.git"
+4. copy paste file ke folder hasil clone dari github
+5. buka cmd ketikan sintax "git add ."
+6. buka cmd ketikan sintax '"git commit -m"Deskription Lu"'
+7. buka cmd ketikan sintax "git push"
